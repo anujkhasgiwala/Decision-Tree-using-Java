@@ -1,0 +1,17 @@
+Toy tree entropy = 0.24229218908241482
+Toy tree information gain = 0.0
+
+Schilling tree entropy = 0.29747224891928953
+Schilling tree information gain = 0.0
+
+Test	Accuracy on test set
+1	81.2%
+2	73.9%
+3	78.6%
+4	80.6%
+5	80.9%
+6	78.4%
+7	83.7%
+8	86.3%
+9	65.9%
+10	83.4%
